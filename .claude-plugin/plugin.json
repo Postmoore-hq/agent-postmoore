@@ -1,0 +1,7 @@
+{
+  "name": "postmoore",
+  "description": "Post to 7 social platforms via the Postmoore REST API",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Postmoore-hq/agent-postmoore",
+  "repository": "https://github.com/Postmoore-hq/agent-postmoore"
+}

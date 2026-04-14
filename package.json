@@ -1,0 +1,42 @@
+{
+  "name": "@postmoore/agent-postmoore",
+  "version": "1.0.0",
+  "description": "AI agent skill — post to 7 social platforms via the Postmoore API",
+  "bin": {
+    "postmoore": "./skills/postmoore/scripts/postmoore.js"
+  },
+  "files": [
+    "skills/",
+    ".claude-plugin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "postmoore",
+    "social-media",
+    "agent",
+    "skill",
+    "claude",
+    "openclaw",
+    "cursor",
+    "instagram",
+    "tiktok",
+    "linkedin",
+    "bluesky",
+    "threads",
+    "facebook",
+    "youtube"
+  ],
+  "homepage": "https://github.com/Postmoore-hq/agent-postmoore",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Postmoore-hq/agent-postmoore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Postmoore-hq/agent-postmoore/issues"
+  }
+}
