@@ -1,0 +1,12 @@
+# Local Postmoore API key config — never commit
+.postmoore/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Node
+node_modules/
